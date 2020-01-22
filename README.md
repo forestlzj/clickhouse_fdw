@@ -71,6 +71,7 @@ sudo yum install libmetalink
 
 ```sh
 yum install libuuid-devel
+yum install postgresql12-devel-12.1
 ```
 
 Usage
